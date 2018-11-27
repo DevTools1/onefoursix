@@ -6,3 +6,4 @@ Create a new file codeowners -> * reviewer.
 Any pull request to merge it into that branch -> Email notification to codeowner.
 If codeowner want to merge his own code -> That should be reviewed by another reviewer.
 If multiple reviewer needed -> * @reviewer1  @reviewer2
+So now changing this from visual studio
